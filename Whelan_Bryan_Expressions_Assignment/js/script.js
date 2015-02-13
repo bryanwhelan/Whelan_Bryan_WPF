@@ -2,7 +2,7 @@
 //February 12, 2015
 //Expressions Assignment
 
-var item1 = prompt("Buy 3 items and get a 10% discount on your total purchase. \nPlease enter the price of you first item");
+var item1 = prompt("Buy 3 items and get a 10% discount on your total purchase. \nPlease enter the price of your first item:");
 var item2 = prompt("Please enter the price of your second item.");
 var item3 = prompt("Please enter the price of your third item.");
 
